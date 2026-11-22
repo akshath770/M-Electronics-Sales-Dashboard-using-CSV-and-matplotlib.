@@ -1,0 +1,109 @@
+Order_ID,Date,Product,Category,Region,Salesperson,Quantity,Unit_Price,Discount,Sales
+ORD078,2026-04-09,Laptop,Electronics,North,Alice,7.0,997.67,0.0,6983.69
+ORD011,2026-01-14,Mouse,Electronics,East,,10.0,24.75,0.0,247.5
+ORD005,2026-02-28,Webcam,Electronics,East,Bob,9.0,67.08,0.15,603.72
+ORD084,2026-05-25,Mouse,Electronics,North,Ethan,9.0,26.31,0.15,236.79
+ORD063,2026-01-01,Headphones,Electronics,East,Bob,1.0,79.45,0.15,79.45
+ORD068,2026-03-10,Headphones,Electronics,West,Bob,7.0,77.32,0.15,541.24
+ORD031,2026-05-03,Webcam,Electronics,,,7.0,72.41,0.15,
+ORD046,2026-02-17,Laptop,Electronics,East,Diana,5.0,898.74,0.1,4493.7
+ORD096,2026-06-04,Mouse,Electronics,South,Alice,5.0,27.37,0.0,136.85
+ORD012,2026-03-23,Tablet,Electronics,East,Ethan,5.0,410.65,0.15,2053.25
+ORD082,2026-05-24,Headphones,Electronics,North,Ethan,4.0,92.59,0.0,370.36
+ORD080,2026-01-28,Smartphone,Electronics,South,Diana,3.0,624.41,0.1,1873.23
+ORD001,2026-04-17,Printer,Electronics,West,Ethan,4.0,239.83,0.0,959.32
+ORD081,2026-05-20,USB Cable,Electronics,North,Diana,5.0,11.02,0.1,55.1
+ORD019,2026-05-22,Headphones,Electronics,East,Charlie,10.0,80.51,0.0,805.1
+ORD070,2026-01-02,Monitor,Electronics,North,Diana,8.0,304.86,0.15,2438.88
+ORD057,2026-06-29,USB Cable,Electronics,South,Charlie,10.0,10.87,0.15,108.7
+ORD077,2026-04-06,Keyboard,Electronics,West,Ethan,4.0,53.59,0.15,214.36
+,,,,,,,,,
+ORD043,2026-05-08,Laptop,Electronics,West,Charlie,5.0,888.98,0.0,4444.9
+ORD013,2026-05-04,USB Cable,Electronics,North,Alice,9.0,11.47,0.0,103.23
+ORD037,2026-04-23,USB Cable,Electronics,South,Alice,9.0,12.04,0.15,108.36
+ORD065,2026-03-17,Headphones,Electronics,South,Charlie,6.0,88.91,0.0,533.46
+ORD027,2026-03-03,Tablet,Electronics,North,Bob,9.0,411.92,0.15,3707.28
+ORD023,2026-01-28,Smartphone,Electronics,West,Diana,5.0,730.52,0.15,3652.6
+ORD032,2026-05-24,Mouse,Electronics,North,Alice,6.0,24.49,0.15,146.94
+ORD048,2026-04-03,Keyboard,Electronics,North,Ethan,9.0,59.98,0.1,539.82
+,,,,,,,,,
+ORD016,2026-02-10,Headphones,Electronics,,Alice,10.0,82.59,0.15,825.9
+ORD045,2026-01-21,Webcam,Electronics,South,Alice,8.0,71.84,0.15,574.72
+ORD089,2026-03-02,Mouse,Electronics,East,Alice,10.0,26.2,0.1,262.0
+ORD090,2026-04-23,Laptop,Electronics,North,Alice,3.0,965.84,0.05,2897.52
+ORD010,2026-02-23,Monitor,Electronics,South,Diana,2.0,275.81,,551.62
+ORD034,2026-02-21,Keyboard,Electronics,North,Alice,4.0,56.6,0.15,226.4
+ORD056,2026-03-04,Printer,Electronics,South,Ethan,6.0,212.44,0.05,1274.64
+,,,,,,,,,
+ORD029,2026-02-23,Laptop,Electronics,East,Ethan,2.0,950.51,0.15,1901.02
+ORD041,2026-05-26,Smartphone,Electronics,West,Bob,3.0,744.42,0.05,2233.26
+ORD006,2026-05-11,Keyboard,Electronics,North,Charlie,7.0,60.32,0.1,422.24
+ORD054,2026-02-05,Tablet,Electronics,North,Diana,10.0,378.44,0.0,3784.4
+,,,,,,,,,
+ORD040,2026-04-14,Laptop,Electronics,West,Charlie,8.0,1004.21,0.15,8033.68
+ORD036,2026-02-11,Mouse,Electronics,East,Diana,7.0,25.21,0.15,176.47
+ORD017,2026-05-31,Mouse,Electronics,South,Ethan,1.0,22.82,0.1,22.82
+ORD079,2026-01-19,Monitor,Electronics,North,Diana,9.0,269.92,0.15,2429.28
+ORD035,2026-01-11,Printer,Electronics,West,Alice,2.0,234.86,0.0,469.72
+ORD067,2026-06-25,Monitor,Electronics,North,Diana,5.0,278.55,0.0,1392.75
+ORD008,2026-02-22,Mouse,Electronics,South,Diana,10.0,24.02,0.15,240.2
+ORD044,2026-01-22,Laptop,Electronics,South,,3.0,975.9,0.1,2927.7
+ORD066,2026-03-10,Webcam,Electronics,East,Alice,9.0,67.79,0.05,610.11
+ORD073,2026-03-22,Mouse,Electronics,South,Ethan,,25.59,0.05,76.77
+ORD028,2026-04-11,Printer,Electronics,North,Alice,2.0,229.34,0.1,458.68
+ORD020,2026-06-28,USB Cable,Electronics,,Alice,10.0,,0.15,118.5
+ORD091,2026-06-22,Headphones,Electronics,West,Ethan,6.0,90.14,0.0,540.84
+,,,,,,,,,
+ORD026,2026-06-21,Headphones,Electronics,West,Charlie,1.0,78.54,0.05,78.54
+ORD069,2026-04-06,USB Cable,Electronics,North,Ethan,10.0,13.04,0.0,130.4
+ORD050,2026-02-23,Keyboard,Electronics,South,Charlie,,55.62,0.15,111.24
+ORD014,2026-03-29,Laptop,Electronics,North,Diana,9.0,1042.51,0.15,9382.59
+ORD025,2026-01-03,Smartphone,Electronics,East,Charlie,4.0,659.95,0.0,
+ORD004,2026-01-21,Webcam,Electronics,North,Diana,2.0,65.55,0.05,131.1
+ORD018,2026-04-11,Tablet,Electronics,East,Charlie,6.0,452.53,0.0,2715.18
+ORD039,2026-04-30,Keyboard,Electronics,North,Diana,4.0,59.26,0.1,237.04
+ORD009,2026-03-22,Printer,Electronics,West,Bob,8.0,199.51,0.15,1596.08
+ORD085,2026-05-02,USB Cable,Electronics,South,Ethan,9.0,12.77,0.0,114.93
+ORD007,2026-05-12,Headphones,Electronics,North,Diana,9.0,77.61,0.05,698.49
+ORD071,2026-06-12,Monitor,Electronics,West,Alice,8.0,289.92,0.0,2319.36
+ORD095,2026-06-13,Headphones,Electronics,South,Bob,8.0,79.38,0.15,635.04
+ORD100,2026-06-26,Laptop,Electronics,East,Ethan,2.0,1042.58,0.05,2085.16
+ORD055,2026-04-02,Tablet,Electronics,South,Bob,3.0,406.39,0.15,1219.17
+ORD051,2026-03-27,Tablet,Electronics,East,Bob,2.0,429.66,0.1,859.32
+ORD074,2026-04-25,USB Cable,Electronics,North,Diana,10.0,11.62,0.05,116.2
+ORD047,2026-06-07,Laptop,Electronics,North,Ethan,1.0,1043.96,0.05,1043.96
+ORD098,2026-02-16,Webcam,Electronics,North,Bob,2.0,68.83,,137.66
+ORD062,2026-03-03,USB Cable,Electronics,East,Alice,5.0,11.24,0.15,56.2
+,,,,,,,,,
+ORD086,2026-04-19,Headphones,Electronics,North,Diana,6.0,93.27,0.0,559.62
+ORD042,2026-06-18,Webcam,Electronics,West,Alice,3.0,72.13,0.15,216.39
+ORD059,2026-04-26,Printer,Electronics,South,Charlie,4.0,235.05,0.1,940.2
+ORD049,2026-06-09,Keyboard,Electronics,East,Alice,1.0,,0.15,50.33
+ORD094,2026-01-12,Webcam,Electronics,South,Diana,6.0,68.38,0.15,410.28
+ORD058,2026-03-01,Headphones,Electronics,West,Diana,1.0,90.57,0.0,90.57
+ORD076,2026-04-11,Headphones,Electronics,North,Charlie,9.0,85.82,0.0,772.38
+ORD033,2026-06-13,Webcam,Electronics,East,Bob,3.0,71.27,0.1,213.81
+,,,,,,,,,
+ORD060,2026-04-24,Tablet,Electronics,West,Bob,,389.15,0.05,1556.6
+ORD064,2026-04-27,Webcam,Electronics,North,Ethan,9.0,72.24,0.1,650.16
+ORD092,2026-06-13,Headphones,Electronics,East,Charlie,6.0,92.22,0.15,553.32
+ORD038,2026-01-09,Headphones,Electronics,North,Charlie,5.0,91.5,0.1,457.5
+ORD030,2026-05-10,Laptop,Electronics,North,Diana,1.0,900.52,0.05,900.52
+ORD097,2026-06-06,Laptop,Electronics,North,Charlie,5.0,1009.62,0.0,5048.1
+ORD002,2026-03-16,Printer,Electronics,East,Ethan,10.0,204.86,0.15,2048.6
+ORD053,2026-01-26,Webcam,Electronics,East,Bob,7.0,67.11,0.0,469.77
+ORD022,2026-03-07,Printer,Electronics,South,Ethan,3.0,205.09,0.05,615.27
+ORD003,2026-02-22,Tablet,Electronics,South,Diana,8.0,432.67,0.05,3461.36
+ORD024,2026-05-09,USB Cable,Electronics,North,Charlie,7.0,12.95,0.05,90.65
+ORD088,2026-03-31,Keyboard,Electronics,East,Charlie,6.0,57.26,0.0,343.56
+ORD099,2026-01-05,Tablet,Electronics,East,Alice,2.0,424.33,0.05,848.66
+ORD075,2026-06-06,Headphones,Electronics,West,Diana,2.0,87.19,,174.38
+ORD087,2026-02-05,Printer,Electronics,South,Diana,9.0,224.04,0.1,2016.36
+ORD083,2026-05-02,USB Cable,Electronics,North,Charlie,10.0,10.94,0.1,109.4
+ORD021,2026-05-23,Monitor,Electronics,East,Ethan,5.0,265.96,0.15,1329.8
+ORD061,2026-01-19,Keyboard,Electronics,West,Bob,1.0,53.89,0.1,
+ORD072,2026-03-06,Keyboard,Electronics,,Bob,5.0,56.39,0.1,281.95
+ORD015,2026-06-12,Tablet,Electronics,East,Alice,3.0,437.38,0.1,1312.14
+ORD093,2026-02-18,Smartphone,Electronics,South,Alice,2.0,634.61,0.0,1269.22
+ORD052,2026-04-14,USB Cable,Electronics,North,Alice,2.0,11.57,0.1,23.14
+,,,,,,,,,
